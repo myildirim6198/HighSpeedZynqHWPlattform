@@ -10,6 +10,21 @@ PCB-Project files for the peripheral High Speed ADC and DAC Aqcuisition board
 - 50 Ohm matched RF-Input and RF-Output with SMA-Connectors
 - Molex 71439-0164 (top) and 71436-2164 (Bottom) Mezzanine PCB-to-PCB connector
 
+
+# Applications:
+
+- Software radio (SR)
+- Software defined radio (SDR)
+- Radar
+- Direct Sampling Spectrum Analyzers
+- Oscilloscope
+- Signal Generator
+
+# Absolute Maximum Ratings
+
+- Supply Voltage: +5V0 to +5V5 (recommended: +5V0)
+- ADC Peak-to-peak input voltage range: 2 V
+
 # Progress
 
 - Schematic design: complete
