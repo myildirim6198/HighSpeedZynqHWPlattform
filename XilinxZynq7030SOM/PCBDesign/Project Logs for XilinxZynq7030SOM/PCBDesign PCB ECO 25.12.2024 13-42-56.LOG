@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=+3V3JTAG Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=JTAG_TMS Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=JTAG_TCK Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=JTAG_TDO Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=JTAG_TDI Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-13
+Removed Member From Class: ClassName=PLBank33 Member=C61
+Removed Member From Class: ClassName=SOCConfiguration Member=C61
+Removed Member From Class: ClassName=DDR3Modules Member=C83
+Removed Member From Class: ClassName=SOCEthernetPHY Member=C105
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=C121
+Removed Member From Class: ClassName=PLUSBSSFTDI Member=C127
+Added Component: Designator=J1(14Pin-TH)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/6701077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "87832-1416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-87832-1416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/87832-1416?qs=kNSQ05%252BLZoDeXuSWsnDgxQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+3V3JTAG Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=JTAG_TMS Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=JTAG_TCK Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=JTAG_TDO Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=JTAG_TDI Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C27 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C28 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C30 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C34 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C37 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C39 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C43 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C45 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C48 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C50 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C52 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C54 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C56 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C58 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C60 4u7
+Added Member To Class: ClassName=SOCConfiguration Member=Component C62 100n
+Added Member To Class: ClassName=PLBank33 Member=Component C63 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C65 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C67 470n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C69 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C71 47n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C73 47n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C75 47n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C76 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C78 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C80 4u7
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C82 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C84 47n
+Added Member To Class: ClassName=DDR3Modules Member=Component C86 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C88 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C90 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C92 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C94 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C96 47n
+Added Member To Class: ClassName=DDR3Modules Member=Component C98 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C100 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C102 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C104 470n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C106 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C108 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C110 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C112 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C114 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C116 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C118 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C120 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C122 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C124 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C126 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C128 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C130 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C132 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C134 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C136 4u7
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C138 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C139 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C141 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C143 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C145 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C147 18p

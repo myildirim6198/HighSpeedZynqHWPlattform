@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5V0 Pin=J4-61
+Removed Pin From Net: NetName=+5V0 Pin=J4-63
+Added Pin To Net: NetName=B33_IO_L3_N Pin=IC3-F2
+Added Pin To Net: NetName=B33_IO_L3_N Pin=J4-63
+Added Net: Name=B33_IO_L3_N
+Added Pin To Net: NetName=B33_IO_L3_P Pin=IC3-G2
+Added Pin To Net: NetName=B33_IO_L3_P Pin=J4-61
+Added Net: Name=B33_IO_L3_P
+Added Differential Pair: Name=B33_IO_L3

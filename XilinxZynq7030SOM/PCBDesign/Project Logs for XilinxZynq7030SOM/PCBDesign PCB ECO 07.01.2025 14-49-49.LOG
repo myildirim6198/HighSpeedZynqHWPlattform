@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ETH_CLK_125M_PL Pin=IC3-AC23
+Added Pin To Net: NetName=ETH_CLK_125M_PL Pin=IC3-AD14
+Added Pin To Net: NetName=B12_IO1P Pin=IC3-Y12
+Added Pin To Net: NetName=B12_IO1P Pin=J5-7
+Added Net: Name=B12_IO1P

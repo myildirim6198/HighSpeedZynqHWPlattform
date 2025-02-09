@@ -1,0 +1,94 @@
+Added Pin To Net: NetName=B12_IO0 Pin=IC3-W14
+Added Net: Name=B12_IO0
+Added Pin To Net: NetName=B12_IO1N Pin=IC3-Y11
+Added Net: Name=B12_IO1N
+Added Pin To Net: NetName=B12_IO1P Pin=IC3-Y12
+Added Net: Name=B12_IO1P
+Added Pin To Net: NetName=B12_IO2N Pin=IC3-AC11
+Added Net: Name=B12_IO2N
+Added Pin To Net: NetName=B12_IO2P Pin=IC3-AB12
+Added Net: Name=B12_IO2P
+Added Pin To Net: NetName=B12_IO4N Pin=IC3-AB10
+Added Net: Name=B12_IO4N
+Added Pin To Net: NetName=B12_IO4P Pin=IC3-AB11
+Added Net: Name=B12_IO4P
+Added Pin To Net: NetName=B12_IO5N Pin=IC3-Y13
+Added Net: Name=B12_IO5N
+Added Pin To Net: NetName=B12_IO5P Pin=IC3-W13
+Added Net: Name=B12_IO5P
+Added Pin To Net: NetName=B12_IO6N Pin=IC3-AA12
+Added Net: Name=B12_IO6N
+Added Pin To Net: NetName=B12_IO6P Pin=IC3-AA13
+Added Net: Name=B12_IO6P
+Added Pin To Net: NetName=B12_IO7N Pin=IC3-AD10
+Added Net: Name=B12_IO7N
+Added Pin To Net: NetName=B12_IO7P Pin=IC3-AE10
+Added Net: Name=B12_IO7P
+Added Pin To Net: NetName=B12_IO8N Pin=IC3-AF12
+Added Net: Name=B12_IO8N
+Added Pin To Net: NetName=B12_IO8P Pin=IC3-AE12
+Added Net: Name=B12_IO8P
+Added Pin To Net: NetName=B12_IO9N Pin=IC3-AF10
+Added Net: Name=B12_IO9N
+Added Pin To Net: NetName=B12_IO9P Pin=IC3-AE11
+Added Net: Name=B12_IO9P
+Added Pin To Net: NetName=B12_IO10N Pin=IC3-AF13
+Added Net: Name=B12_IO10N
+Added Pin To Net: NetName=B12_IO10P Pin=IC3-AE13
+Added Net: Name=B12_IO10P
+Added Pin To Net: NetName=B12_IO11N Pin=IC3-AD11
+Added Net: Name=B12_IO11N
+Added Pin To Net: NetName=B12_IO11P Pin=IC3-AC12
+Added Net: Name=B12_IO11P
+Added Pin To Net: NetName=B12_IO12N Pin=IC3-AD13
+Added Net: Name=B12_IO12N
+Added Pin To Net: NetName=B12_IO12P Pin=IC3-AC13
+Added Net: Name=B12_IO12P
+Added Pin To Net: NetName=B12_IO13N Pin=IC3-AD14
+Added Net: Name=B12_IO13N
+Added Pin To Net: NetName=B12_IO13P Pin=IC3-AC14
+Added Net: Name=B12_IO13P
+Added Pin To Net: NetName=B12_IO14N Pin=IC3-AB14
+Added Net: Name=B12_IO14N
+Added Pin To Net: NetName=B12_IO14P Pin=IC3-AB15
+Added Net: Name=B12_IO14P
+Added Pin To Net: NetName=B12_IO15N Pin=IC3-AD15
+Added Net: Name=B12_IO15N
+Added Pin To Net: NetName=B12_IO15P Pin=IC3-AD16
+Added Net: Name=B12_IO15P
+Added Pin To Net: NetName=B12_IO16N Pin=IC3-AF14
+Added Net: Name=B12_IO16N
+Added Pin To Net: NetName=B12_IO16P Pin=IC3-AF15
+Added Net: Name=B12_IO16P
+Added Pin To Net: NetName=B12_IO17N Pin=IC3-AE15
+Added Net: Name=B12_IO17N
+Added Pin To Net: NetName=B12_IO17P Pin=IC3-AE16
+Added Net: Name=B12_IO17P
+Added Pin To Net: NetName=B12_IO18N Pin=IC3-AF17
+Added Net: Name=B12_IO18N
+Added Pin To Net: NetName=B12_IO18P Pin=IC3-AE17
+Added Net: Name=B12_IO18P
+Added Pin To Net: NetName=B12_IO19N Pin=IC3-AA17
+Added Net: Name=B12_IO19N
+Added Pin To Net: NetName=B12_IO20N Pin=IC3-AB16
+Added Net: Name=B12_IO20N
+Added Pin To Net: NetName=B12_IO20P Pin=IC3-AB17
+Added Net: Name=B12_IO20P
+Added Pin To Net: NetName=B12_IO21N Pin=IC3-AC16
+Added Net: Name=B12_IO21N
+Added Pin To Net: NetName=B12_IO21P Pin=IC3-AC17
+Added Net: Name=B12_IO21P
+Added Pin To Net: NetName=B12_IO22N Pin=IC3-AA14
+Added Net: Name=B12_IO22N
+Added Pin To Net: NetName=B12_IO22P Pin=IC3-AA15
+Added Net: Name=B12_IO22P
+Added Pin To Net: NetName=B12_IO23N Pin=IC3-Y15
+Added Net: Name=B12_IO23N
+Added Pin To Net: NetName=B12_IO23P Pin=IC3-Y16
+Added Net: Name=B12_IO23P
+Added Pin To Net: NetName=B12_IO24N Pin=IC3-W15
+Added Net: Name=B12_IO24N
+Added Pin To Net: NetName=B12_IO24P Pin=IC3-W16
+Added Net: Name=B12_IO24P
+Added Pin To Net: NetName=B12_LED Pin=IC3-W17
+Added Net: Name=B12_LED

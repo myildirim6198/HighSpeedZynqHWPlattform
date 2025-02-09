@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=SEC_REFN Pin=C21-1
+Removed Pin From Net: NetName=SEC_REFN Pin=C22-1
+Removed Pin From Net: NetName=SEC_REFN Pin=IC4-11
+Removed Pin From Net: NetName=SEC_REFN Pin=IC4-12
+Removed Pin From Net: NetName=SEC_REFN Pin=X1-1
+Removed Pin From Net: NetName=SEC_REFN Pin=X1-3
+Change Component Footprint: Designator=L1 Old Footprint=FP-MABA-007159-000000-MFG New Footprint=FP-MABA-007159-000000-MFG
+Change Component Footprint: Designator=L2 Old Footprint=FP-MABA-007159-000000-MFG New Footprint=FP-MABA-007159-000000-MFG
+Change Component Footprint: Designator=L3 Old Footprint=FP-MABA-007159-000000-MFG New Footprint=FP-MABA-007159-000000-MFG
+Change Net Name : Old Net Name=SEC_REFN New Net Name=GND
+Added Pin To Net: NetName=SEC_REFN Pin=C22-1
+Added Pin To Net: NetName=SEC_REFN Pin=IC4-12
+Added Pin To Net: NetName=SEC_REFN Pin=X1-3
+Added Net: Name=SEC_REFN
+Added Pin To Net: NetName=SEC_REFP Pin=C21-1
+Added Pin To Net: NetName=SEC_REFP Pin=IC4-11
+Added Pin To Net: NetName=SEC_REFP Pin=X1-1
+Added Net: Name=SEC_REFP
+Added Rule: Name=Schematic Supply Nets_13

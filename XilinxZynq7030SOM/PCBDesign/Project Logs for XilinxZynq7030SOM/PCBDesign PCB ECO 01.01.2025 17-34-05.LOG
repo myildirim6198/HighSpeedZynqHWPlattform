@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=GND Pin=J3-23
+Added Pin To Net: NetName=MGT_REFCLK_0_P Pin=J3-25
+Added Pin To Net: NetName=MGT_REFCLK_0_N Pin=J3-27
+Added Pin To Net: NetName=GND Pin=J3-29
+Added Pin To Net: NetName=MGT_REFCLK_1_P Pin=J3-31
+Added Pin To Net: NetName=MGT_REFCLK_1_N Pin=J3-33
+Added Pin To Net: NetName=MGT_RX_0_P Pin=J3-37
+Added Pin To Net: NetName=MGT_RX_0_N Pin=J3-39
+Added Pin To Net: NetName=MGT_RX_1_P Pin=J3-43
+Added Pin To Net: NetName=MGT_RX_1_N Pin=J3-45
+Added Pin To Net: NetName=MGT_RX_2_P Pin=J3-49
+Added Pin To Net: NetName=MGT_RX_2_N Pin=J3-51
+Added Pin To Net: NetName=MGT_RX_3_P Pin=J3-55
+Added Pin To Net: NetName=MGT_RX_3_N Pin=J3-57

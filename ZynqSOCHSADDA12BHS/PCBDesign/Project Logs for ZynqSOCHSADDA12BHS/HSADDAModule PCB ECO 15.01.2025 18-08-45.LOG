@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=B34_IO_L16_P Pin=IC6-29
+Added Pin To Net: NetName=B34_IO_L16_N Pin=IC6-30
+Added Pin To Net: NetName=B34_IO_L20_P Pin=IC6-31
+Added Pin To Net: NetName=B34_IO_L20_N Pin=IC6-32
+Added Pin To Net: NetName=B34_IO_L8_P Pin=IC6-33
+Added Pin To Net: NetName=B34_IO_L8_N Pin=IC6-34
+Added Pin To Net: NetName=B33_IO_L6_P Pin=IC6-35
+Added Pin To Net: NetName=B33_IO_L6_N Pin=IC6-36

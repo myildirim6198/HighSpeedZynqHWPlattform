@@ -1,0 +1,104 @@
+Removed Member From Class: ClassName=SOCPowerDecoupling Member=C29
+Removed Member From Class: ClassName=SOCConfiguration Member=C59
+Removed Member From Class: ClassName=DDR3Modules Member=C80
+Removed Member From Class: ClassName=DDR3Modules Member=C82
+Removed Member From Class: ClassName=SOCEthernetPHY Member=C102
+Removed Member From Class: ClassName=SOCEthernetPHY Member=C104
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=C118
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=C120
+Removed Member From Class: ClassName=MezzanineConnections Member=C124
+Removed Member From Class: ClassName=MezzanineConnections Member=C126
+Removed Member From Class: ClassName=PLMGTBanks Member=R36
+Removed Member From Class: ClassName=SOCDDR3Bank Member=R64
+Removed Member From Class: ClassName=DDR3Modules Member=R91
+Removed Member From Class: ClassName=SOCEthernetPHY Member=R93
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=R113
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C27 10u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C28 10u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C29 10u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C31 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C32 TAJD337K010RNJ
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C35 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C36 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C38 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C40 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C42 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C44 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C46 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C48 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C50 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C52 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C54 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C56 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C58 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C60 4u7
+Added Member To Class: ClassName=SOCConfiguration Member=Component C62 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C67 100n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C73 47n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C75 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C77 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C79 4u7
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C81 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C83 47n
+Added Member To Class: ClassName=DDR3Modules Member=Component C85 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C87 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C89 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C91 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C93 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C95 47n
+Added Member To Class: ClassName=DDR3Modules Member=Component C97 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C99 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C101 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C103 470n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C105 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C107 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C109 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C111 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C113 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C115 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C117 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C119 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C121 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C123 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C125 100n
+Added Member To Class: ClassName=MezzanineConnections Member=Component C127 47u
+Added Member To Class: ClassName=MezzanineConnections Member=Component C129 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component IC2 XC7Z030-2FFG676I
+Added Member To Class: ClassName=SOCPSBanks Member=Component IC4 SN74LVC1G07DBVT
+Added Member To Class: ClassName=DDR3Modules Member=Component IC6 MT41K256M16TW-107 IT:P
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component R25 510R
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component R26 0R
+Added Member To Class: ClassName=SOCConfiguration Member=Component R27 510R
+Added Member To Class: ClassName=SOCConfiguration Member=Component R28 4k7
+Added Member To Class: ClassName=PLMGTBanks Member=Component R38 100R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R41 510R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R43 10k
+Added Member To Class: ClassName=SOCPSBanks Member=Component R44 0R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R47 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R55 10k
+Added Member To Class: ClassName=SOCPSBanks Member=Component R56 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R58 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R64 100k
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R78 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R91 100R
+Added Member To Class: ClassName=DDR3Modules Member=Component R93 240R
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R111 2k49
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R113 22R
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component R115 22R
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=168.528ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=156.236ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=155.141ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=161.765ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=160.699ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=143.476ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=139.008ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=162.305ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=157.634ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=143.574ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=143.604ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=151.378ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=122.761ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=142.533ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=140.19ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=144.035ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=130.608ps

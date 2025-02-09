@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=B34_IO_L13_P Pin=C17-1
+Removed Pin From Net: NetName=B34_IO_L13_N Pin=C18-1
+Removed Pin From Net: NetName=HS_DAC_CLK_P Pin=C19-1
+Removed Pin From Net: NetName=HS_DAC_CLK_N Pin=C20-1
+Added Pin To Net: NetName=HS_DAC_CLK_P Pin=C17-1
+Added Pin To Net: NetName=HS_DAC_CLK_N Pin=C18-1
+Added Pin To Net: NetName=B34_IO_L13_P Pin=C19-1
+Added Pin To Net: NetName=B34_IO_L13_N Pin=C20-1
+Change Net Name : Old Net Name=HS_ADC_CLK_C_N New Net Name=HS_DAC_CLK_C_N
+Change Net Name : Old Net Name=HS_ADC_CLK_C_P New Net Name=HS_DAC_CLK_C_P
+Change Net Name : Old Net Name=HS_DAC_CLK_C_N New Net Name=HS_FPGA_CLK_C_N
+Change Net Name : Old Net Name=HS_DAC_CLK_C_P New Net Name=HS_FPGA_CLK_C_P
+Change Net Name : Old Net Name=HS_FPGA_CLK_C_N New Net Name=HS_ADC_CLK_C_N
+Change Net Name : Old Net Name=HS_FPGA_CLK_C_P New Net Name=HS_ADC_CLK_C_P

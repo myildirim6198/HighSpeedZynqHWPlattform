@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V3 Pin=D2-2
+Removed Member From Class: ClassName=SOCConfiguration Member=D4
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J2
+Added Pin To Net: NetName=+3V3 Pin=J1-2
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetD3_K New Net Name=NetD2_K
+Change Net Name : Old Net Name=NetD5_A New Net Name=NetD4_A
+Change Net Name : Old Net Name=NetD5_K New Net Name=NetD4_K

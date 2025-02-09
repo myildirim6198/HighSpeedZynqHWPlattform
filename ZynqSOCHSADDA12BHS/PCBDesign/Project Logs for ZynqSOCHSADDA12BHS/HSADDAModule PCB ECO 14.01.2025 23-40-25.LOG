@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=+3V3 Pin=C61-1
+Removed Pin From Net: NetName=+3V3 Pin=IC6-45
+Removed Pin From Net: NetName=SPI_SDO Pin=R26-1
+Removed Pin From Net: NetName=SPI_SDI Pin=R27-1
+Removed Pin From Net: NetName=SPI_SCK Pin=R28-1
+Removed Pin From Net: NetName=SPI_CS_DAC Pin=R29-1
+Removed Pin From Net: NetName=SPI_NRES_DAC Pin=R30-1
+Removed Member From Class: ClassName=SerialTerminations Member=R28
+Removed Member From Class: ClassName=SerialTerminations Member=R29
+Removed Member From Class: ClassName=SerialTerminations Member=R30
+Removed Member From Class: ClassName=SerialTerminations Member=R31
+Change Component Designator: OldDesignator=C74 NewDesignator=C76
+Change Component Designator: OldDesignator=C75 NewDesignator=C77
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC8
+Change Component Designator: OldDesignator=R31 NewDesignator=R27
+Added Component: Designator=C74(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C75(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC7(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/txb0106pwr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/txb0106.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXB0106PWR?qs=nRD1PKnFC2EFAtrwfAB%2F4Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1V8_ADDA Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=+1V8_ADDA Pin=C74-2
+Added Pin To Net: NetName=+3V3 Pin=C75-1
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=+1V8_ADDA Pin=IC6-45
+Added Pin To Net: NetName=GND Pin=IC7-1
+Added Pin To Net: NetName=+1V8_ADDA Pin=IC7-2
+Added Pin To Net: NetName=SPI_SDO Pin=IC7-3
+Added Pin To Net: NetName=SPI_SDI Pin=IC7-4
+Added Pin To Net: NetName=SPI_SCK Pin=IC7-5
+Added Pin To Net: NetName=SPI_CS_DAC Pin=IC7-6
+Added Pin To Net: NetName=SPI_NRES_DAC Pin=IC7-7
+Added Pin To Net: NetName=SHIFTER_OE Pin=IC7-8
+Added Pin To Net: NetName=GND Pin=IC7-9
+Added Pin To Net: NetName=+3V3 Pin=IC7-15
+Added Pin To Net: NetName=GND Pin=IC7-16
+Added Pin To Net: NetName=+1V8_ADDA Pin=R26-1
+Added Pin To Net: NetName=SHIFTER_OE Pin=R26-2
+Added Pin To Net: NetName=SPI_CS_DAC_3V3 Pin=IC7-11
+Added Net: Name=SPI_CS_DAC_3V3
+Added Pin To Net: NetName=SPI_NRES_DAC_3V3 Pin=IC7-10
+Added Net: Name=SPI_NRES_DAC_3V3
+Added Pin To Net: NetName=SPI_SCK_3V3 Pin=IC7-12
+Added Net: Name=SPI_SCK_3V3
+Added Pin To Net: NetName=SPI_SDI_3V3 Pin=IC7-13
+Added Net: Name=SPI_SDI_3V3
+Added Pin To Net: NetName=SPI_SDO_3V3 Pin=IC7-14
+Added Net: Name=SPI_SDO_3V3
+Added Member To Class: ClassName=SerialTerminations Member=Component C76 100n
+Added Member To Class: ClassName=SerialTerminations Member=Component C77 100n
+Added Member To Class: ClassName=SerialTerminations Member=Component IC8 TXB0106PWR

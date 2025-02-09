@@ -1,0 +1,56 @@
+Added Pin To Net: NetName=B13_IO3N Pin=IC3-AE26
+Added Net: Name=B13_IO3N
+Added Pin To Net: NetName=B13_IO3P Pin=IC3-AE25
+Added Net: Name=B13_IO3P
+Added Pin To Net: NetName=B13_IO4N Pin=IC3-AD26
+Added Net: Name=B13_IO4N
+Added Pin To Net: NetName=B13_IO4P Pin=IC3-AD25
+Added Net: Name=B13_IO4P
+Added Pin To Net: NetName=B13_IO5N Pin=IC3-AF25
+Added Net: Name=B13_IO5N
+Added Pin To Net: NetName=B13_IO5P Pin=IC3-AF24
+Added Net: Name=B13_IO5P
+Added Pin To Net: NetName=B13_IO7N Pin=IC3-AF22
+Added Net: Name=B13_IO7N
+Added Pin To Net: NetName=B13_IO7P Pin=IC3-AE22
+Added Net: Name=B13_IO7P
+Added Pin To Net: NetName=B13_IO8N Pin=IC3-AF23
+Added Net: Name=B13_IO8N
+Added Pin To Net: NetName=B13_IO8P Pin=IC3-AE23
+Added Net: Name=B13_IO8P
+Added Pin To Net: NetName=B13_IO11N Pin=IC3-AD24
+Added Net: Name=B13_IO11N
+Added Pin To Net: NetName=B13_IO11P Pin=IC3-AD23
+Added Net: Name=B13_IO11P
+Added Pin To Net: NetName=B13_IO13N Pin=IC3-AD21
+Added Net: Name=B13_IO13N
+Added Pin To Net: NetName=B13_IO13P Pin=IC3-AD20
+Added Net: Name=B13_IO13P
+Added Pin To Net: NetName=B13_IO15N Pin=IC3-AF20
+Added Net: Name=B13_IO15N
+Added Pin To Net: NetName=B13_IO15P Pin=IC3-AF19
+Added Net: Name=B13_IO15P
+Added Pin To Net: NetName=B13_IO16N Pin=IC3-AE21
+Added Net: Name=B13_IO16N
+Added Pin To Net: NetName=B13_IO16P Pin=IC3-AE20
+Added Net: Name=B13_IO16P
+Added Pin To Net: NetName=B13_IO17N Pin=IC3-AD19
+Added Net: Name=B13_IO17N
+Added Pin To Net: NetName=B13_IO17P Pin=IC3-AD18
+Added Net: Name=B13_IO17P
+Added Pin To Net: NetName=B13_IO18N Pin=IC3-AF18
+Added Net: Name=B13_IO18N
+Added Pin To Net: NetName=B13_IO18P Pin=IC3-AE18
+Added Net: Name=B13_IO18P
+Added Pin To Net: NetName=B13_IO21N Pin=IC3-AC19
+Added Net: Name=B13_IO21N
+Added Pin To Net: NetName=B13_IO21P Pin=IC3-AC18
+Added Net: Name=B13_IO21P
+Added Pin To Net: NetName=B13_IO22N Pin=IC3-AB19
+Added Net: Name=B13_IO22N
+Added Pin To Net: NetName=B13_IO23P Pin=IC3-W18
+Added Net: Name=B13_IO23P
+Added Pin To Net: NetName=B13_IO24N Pin=IC3-AA18
+Added Net: Name=B13_IO24N
+Added Pin To Net: NetName=B13_IO24P Pin=IC3-Y18
+Added Net: Name=B13_IO24P

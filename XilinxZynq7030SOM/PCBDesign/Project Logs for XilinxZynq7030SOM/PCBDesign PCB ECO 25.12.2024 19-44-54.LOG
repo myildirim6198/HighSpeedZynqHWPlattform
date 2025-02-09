@@ -1,0 +1,163 @@
+Removed Member From Class: ClassName=SOCPowerSupplys Member=C36
+Removed Member From Class: ClassName=SOCPowerSupplys Member=C43
+Removed Member From Class: ClassName=SOCPowerSupplys Member=C45
+Removed Member From Class: ClassName=SOCPowerSupplys Member=C47
+Removed Member From Class: ClassName=SOCPowerSupplys Member=C64
+Removed Member From Class: ClassName=SOCPowerDecoupling Member=C72
+Removed Member From Class: ClassName=SOCPSBanks Member=C72
+Removed Member From Class: ClassName=SOCPSBanks Member=C73
+Removed Member From Class: ClassName=SOCConfiguration Member=C74
+Removed Member From Class: ClassName=SOCPowerDecoupling Member=C74
+Removed Member From Class: ClassName=SOCPSBanks Member=C74
+Removed Member From Class: ClassName=SOCPSBanks Member=C75
+Removed Member From Class: ClassName=SOCPSBanks Member=C76
+Removed Member From Class: ClassName=SOCDDR3Bank Member=C87
+Removed Member From Class: ClassName=SOCDDR3Bank Member=C89
+Removed Member From Class: ClassName=DDR3Modules Member=C109
+Removed Member From Class: ClassName=DDR3Modules Member=C111
+Removed Member From Class: ClassName=SOCEthernetPHY Member=C125
+Removed Member From Class: ClassName=SOCEthernetPHY Member=C127
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=C131
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=C133
+Removed Member From Class: ClassName=SOCPSBanks Member=FB8
+Removed Member From Class: ClassName=PLUSBSSFTDI Member=IC7
+Removed Member From Class: ClassName=SOCPSBanks Member=R65
+Removed Member From Class: ClassName=SOCDDR3Bank Member=R93
+Removed Member From Class: ClassName=DDR3Modules Member=R95
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=R117
+Removed Member From Class: ClassName=SOCPSBanks Member=X3
+Removed Member From Class: ClassName=SOCUSBHSPHY Member=X5
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C5 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C6 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C7 10p
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C8 10p
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C9 47u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C12 47u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C13 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C14 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C15 10p
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C19 47u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C20 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C21 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C22 10p
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C23 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C24 10u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C25 10u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C26 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C27 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C30 10u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C31 10u
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C32 100n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C33 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C34 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C35 TAJD337K010RNJ
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C37 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C38 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C39 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C40 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C41 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C42 47u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C44 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C46 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C48 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C49 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C50 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C51 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C52 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C53 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C54 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C55 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C56 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C57 100u
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C58 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C59 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C61 470n
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C62 4u7
+Added Member To Class: ClassName=SOCPowerDecoupling Member=Component C63 4u7
+Added Member To Class: ClassName=SOCConfiguration Member=Component C65 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C67 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C68 470n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C69 4u7
+Added Member To Class: ClassName=SOCPSBanks Member=Component C70 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component C71 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C78 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C80 470n
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C82 4u7
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component C84 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C86 47n
+Added Member To Class: ClassName=DDR3Modules Member=Component C88 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C90 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C92 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C94 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C96 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C98 47n
+Added Member To Class: ClassName=DDR3Modules Member=Component C100 4u7
+Added Member To Class: ClassName=DDR3Modules Member=Component C102 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C104 470n
+Added Member To Class: ClassName=DDR3Modules Member=Component C106 470n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C108 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C110 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C112 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C114 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C116 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C118 4u7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C120 100n
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component C122 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C124 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C126 100n
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component C128 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C130 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C132 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C134 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C136 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C137 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C138 4u7
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C139 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C140 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C141 100n
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component C143 100n
+Added Member To Class: ClassName=SOCPSBanks Member=Component FB5 120R @ 100 MHz
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component FB6 120R @ 100 MHz
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component FB7 120R @ 100 MHz
+Added Member To Class: ClassName=SOCPSBanks Member=Component IC4 MT25QL128ABA8E12-0SIT
+Added Member To Class: ClassName=SOCPSBanks Member=Component IC5 SN74LVC1G07DBVT
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component IC8 FT601Q-B-T
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component R19 0R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R40 10k
+Added Member To Class: ClassName=SOCPSBanks Member=Component R42 510R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R44 0R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R56 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R58 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R60 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R62 22R
+Added Member To Class: ClassName=SOCPSBanks Member=Component R64 100k
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R66 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R68 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R70 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R72 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R74 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R76 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R78 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R80 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R82 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R84 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R86 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R88 49R9
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R90 4k7
+Added Member To Class: ClassName=SOCDDR3Bank Member=Component R92 100R
+Added Member To Class: ClassName=DDR3Modules Member=Component R94 240R
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R96 4k7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R98 4k7
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R100 22R
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R102 22R
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R104 22R
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R106 1k
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R108 1k
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R110 22R
+Added Member To Class: ClassName=SOCEthernetPHY Member=Component R112 22R
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component R114 1k
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component R116 8k06
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component R118 10k
+Added Member To Class: ClassName=PLUSBSSFTDI Member=Component R120 4k7
+Added Member To Class: ClassName=SOCPSBanks Member=Component X2 SX2M13.000M20F30TNN
+Added Member To Class: ClassName=SOCUSBHSPHY Member=Component X4 SX2M13.000M20F30TNN

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=MIO_VREF Pin=R41-1
+Removed Pin From Net: NetName=+1V8 Pin=R41-2
+Removed Pin From Net: NetName=GND Pin=R42-1
+Removed Pin From Net: NetName=MIO_VREF Pin=R42-2
+Added Component: Designator=R41(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1V8 Pin=R41-1
+Added Pin To Net: NetName=MIO_VREF Pin=R41-2
+Added Pin To Net: NetName=MIO_VREF Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R42-2

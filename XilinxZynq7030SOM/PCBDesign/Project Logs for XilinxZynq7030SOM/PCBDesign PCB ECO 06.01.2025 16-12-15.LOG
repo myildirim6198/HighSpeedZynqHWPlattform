@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=B34_IO_L16_P Pin=J4-13
+Added Pin To Net: NetName=B34_IO_L16_N Pin=J4-15
+Added Pin To Net: NetName=B34_IO_L17_P Pin=J4-19
+Added Pin To Net: NetName=B34_IO_L17_N Pin=J4-21
+Added Pin To Net: NetName=B34_IO_L18_P Pin=J4-25
+Added Pin To Net: NetName=B34_IO_L18_N Pin=J4-27
+Added Pin To Net: NetName=B34_IO_L20_P Pin=J4-31
+Added Pin To Net: NetName=B34_IO_L20_N Pin=J4-33
+Added Pin To Net: NetName=B33_IO_L6_P Pin=J4-37
+Added Pin To Net: NetName=B33_IO_L6_N Pin=J4-39
+Added Pin To Net: NetName=B34_IO_L24_P Pin=J4-43
+Added Pin To Net: NetName=B34_IO_L24_N Pin=J4-45
+Added Pin To Net: NetName=B33_IO_L4_P Pin=J4-49
+Added Pin To Net: NetName=B33_IO_L4_N Pin=J4-51
+Added Pin To Net: NetName=B33_IO_L5_P Pin=J4-55
+Added Pin To Net: NetName=B33_IO_L5_N Pin=J4-57

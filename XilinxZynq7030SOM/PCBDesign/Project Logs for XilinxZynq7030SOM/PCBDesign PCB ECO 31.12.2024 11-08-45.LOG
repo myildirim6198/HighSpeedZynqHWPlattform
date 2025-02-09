@@ -1,0 +1,11 @@
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C5 10p
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C8 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C15 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C22 100n
+Added Member To Class: ClassName=SOCPowerSupplys Member=Component C23 100n
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=138.016ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=127.351ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=128.53ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=117.282ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=105.118ps
+PCB-ECO: Change Pad Propagation Delay: Old=0ps New=104.403ps

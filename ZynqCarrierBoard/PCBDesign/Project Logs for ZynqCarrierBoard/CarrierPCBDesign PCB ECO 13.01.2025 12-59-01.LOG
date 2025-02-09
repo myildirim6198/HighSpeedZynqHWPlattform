@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+3V3 Pin=J6-2
+Removed Pin From Net: NetName=+3V3 Pin=J7-2
+Removed Member From Class: ClassName=CarrierBoardPPower Member=C9
+Removed Member From Class: ClassName=CarrierMezzanineConnectors Member=C13
+Added Pin To Net: NetName=+3V3FPGA Pin=J6-2
+Added Pin To Net: NetName=+3V3FPGA Pin=J7-2
+Added Net: Name=+3V3FPGA
+Added Member To Class: ClassName=CarrierBoardPPower Member=Component C7 100n
+Added Member To Class: ClassName=CarrierBoardPPower Member=Component C8 10p
+Added Member To Class: ClassName=CarrierMezzanineConnectors Member=Component C10 47u
+Added Member To Class: ClassName=CarrierMezzanineConnectors Member=Component C12 47u
+Added Member To Class: ClassName=CarrierPeripherals Member=Component C14 10u
+Added Member To Class: ClassName=CarrierPeripherals Member=Component C16 100n
+Added Member To Class: ClassName=CarrierPeripherals Member=Component C18 10u
+Added Rule: Name=Schematic Supply Nets_8

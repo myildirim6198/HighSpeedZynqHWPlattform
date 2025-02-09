@@ -1,0 +1,37 @@
+Added Pin To Net: NetName=B34_IO_L19_N Pin=IC5-4
+Added Pin To Net: NetName=B34_IO_L19_P Pin=IC5-5
+Added Pin To Net: NetName=B33_IO_L3_N Pin=IC5-37
+Added Pin To Net: NetName=B33_IO_L3_P Pin=IC5-38
+Added Pin To Net: NetName=B34_IO_L24_N Pin=IC5-39
+Added Pin To Net: NetName=B34_IO_L24_P Pin=IC5-40
+Added Pin To Net: NetName=B34_IO_L14_N Pin=IC5-41
+Added Pin To Net: NetName=B34_IO_L14_P Pin=IC5-42
+Added Pin To Net: NetName=B33_IO_L4_N Pin=IC5-43
+Added Pin To Net: NetName=B33_IO_L4_P Pin=IC5-44
+Added Pin To Net: NetName=B34_IO_L22_N Pin=IC5-45
+Added Pin To Net: NetName=B34_IO_L22_P Pin=IC5-46
+Added Pin To Net: NetName=B33_IO_L5_N Pin=IC5-47
+Added Pin To Net: NetName=B33_IO_L5_P Pin=IC5-48
+Added Differential Pair: Name=B33_IO_L3
+Added Differential Pair: Name=B33_IO_L4
+Added Differential Pair: Name=B33_IO_L5
+Added Differential Pair: Name=B33_IO_L6
+Added Differential Pair: Name=B34_IO_L3
+Added Differential Pair: Name=B34_IO_L7
+Added Differential Pair: Name=B34_IO_L8
+Added Differential Pair: Name=B34_IO_L9
+Added Differential Pair: Name=B34_IO_L10
+Added Differential Pair: Name=B34_IO_L12
+Added Differential Pair: Name=B34_IO_L13
+Added Differential Pair: Name=B34_IO_L14
+Added Differential Pair: Name=B34_IO_L15
+Added Differential Pair: Name=B34_IO_L16
+Added Differential Pair: Name=B34_IO_L17
+Added Differential Pair: Name=B34_IO_L18
+Added Differential Pair: Name=B34_IO_L19
+Added Differential Pair: Name=B34_IO_L20
+Added Differential Pair: Name=B34_IO_L22
+Added Differential Pair: Name=B34_IO_L23
+Added Differential Pair: Name=B34_IO_L24
+Added Differential Pair: Name=B35_IO_L19
+Added Differential Pair: Name=B35_IO_L23

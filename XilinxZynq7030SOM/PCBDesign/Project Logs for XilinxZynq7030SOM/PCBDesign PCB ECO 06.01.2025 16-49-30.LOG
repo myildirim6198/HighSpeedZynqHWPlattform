@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=B35_IO_L19_P Pin=J4-14
+Removed Pin From Net: NetName=B35_IO_L19_N Pin=J4-16
+Removed Pin From Net: NetName=B35_IO_L23_P Pin=J4-20
+Removed Pin From Net: NetName=B35_IO_L23_N Pin=J4-22
+Added Pin To Net: NetName=B35_IO_L19_P Pin=J2-61
+Added Pin To Net: NetName=B35_IO_L23_P Pin=J2-62
+Added Pin To Net: NetName=B35_IO_L19_N Pin=J2-63
+Added Pin To Net: NetName=B35_IO_L23_N Pin=J2-64

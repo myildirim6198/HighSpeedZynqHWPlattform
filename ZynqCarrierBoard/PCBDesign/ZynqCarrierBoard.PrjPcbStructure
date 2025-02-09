@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=CarrierBoardPPower.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CarrierBoardPPower.SchDoc|FileName=CarrierMezzanineConnectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CarrierBoardPPower.SchDoc|FileName=CarrierPeripherals.SchDoc|SheetNumber=3

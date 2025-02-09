@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=B34_IO_L16_P Pin=J4-13
+Removed Pin From Net: NetName=B34_IO_L16_N Pin=J4-15
+Added Pin To Net: NetName=B34_IO_L15_P Pin=J4-13
+Added Pin To Net: NetName=B34_IO_L15_N Pin=J4-15
+Added Pin To Net: NetName=B34_IO_L16_P Pin=J4-26
+Added Pin To Net: NetName=B34_IO_L16_N Pin=J4-28
+Added Pin To Net: NetName=B34_IO_L8_P Pin=J4-32
+Added Pin To Net: NetName=B34_IO_L8_N Pin=J4-34
+Added Pin To Net: NetName=B34_IO_L13_P Pin=J4-38
+Added Pin To Net: NetName=B34_IO_L13_N Pin=J4-40
+Added Pin To Net: NetName=B34_IO_L14_P Pin=J4-44
+Added Pin To Net: NetName=B34_IO_L14_N Pin=J4-46
+Added Pin To Net: NetName=B34_IO_L22_P Pin=J4-50
+Added Pin To Net: NetName=B34_IO_L22_N Pin=J4-52
+Added Pin To Net: NetName=B34_IO_L19_P Pin=J4-56
+Added Pin To Net: NetName=B34_IO_L19_N Pin=J4-58

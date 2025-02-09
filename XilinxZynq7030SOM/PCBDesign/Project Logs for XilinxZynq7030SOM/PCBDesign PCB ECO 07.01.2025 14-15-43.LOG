@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=J2-39
+Removed Pin From Net: NetName=PROGRAM_B Pin=J2-41
+Removed Pin From Net: NetName=SYS_PG Pin=J2-43
+Removed Pin From Net: NetName=BOOTMODE_0 Pin=J2-47
+Removed Pin From Net: NetName=BOOTMODE_1 Pin=J2-49
+Removed Pin From Net: NetName=PS_SRST Pin=J2-51
+Added Pin To Net: NetName=GND Pin=J2-31
+Added Pin To Net: NetName=PROGRAM_B Pin=J2-33
+Added Pin To Net: NetName=SYS_PG Pin=J2-35
+Added Pin To Net: NetName=GND Pin=J2-37
+Added Pin To Net: NetName=BOOTMODE_0 Pin=J2-39
+Added Pin To Net: NetName=BOOTMODE_1 Pin=J2-41
+Added Pin To Net: NetName=PS_SRST Pin=J2-43
+Added Pin To Net: NetName=ETH_LED0 Pin=J2-47
+Added Pin To Net: NetName=ETH_LED1 Pin=J2-49
+Added Pin To Net: NetName=ETH_LED2 Pin=J2-51

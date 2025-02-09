@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SHIFTER_OE1 Pin=IC7-8
+Added Pin To Net: NetName=SHIFTER_OE1 Pin=R26-2
+Added Net: Name=SHIFTER_OE1
+Added Pin To Net: NetName=SHIFTER_OE2 Pin=IC8-8
+Added Pin To Net: NetName=SHIFTER_OE2 Pin=R27-2
+Added Net: Name=SHIFTER_OE2

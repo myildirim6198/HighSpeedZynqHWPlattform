@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=B34_IO_L23_N Pin=IC3-B1
+Added Net: Name=B34_IO_L23_N
+Added Pin To Net: NetName=B34_IO_L23_P Pin=IC3-C2
+Added Net: Name=B34_IO_L23_P
+Added Differential Pair: Name=B34_IO_L23

@@ -1,0 +1,18 @@
+Added Component: Designator=C18(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=CGND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=CGND Pin=R27-2
+Added Member To Class: ClassName=CarrierPeripherals Member=Component C18 1n
+Added Member To Class: ClassName=CarrierPeripherals Member=Component R27 1Meg

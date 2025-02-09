@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=HS_ADC_OVR Pin=R31-1
+Removed Pin From Net: NetName=HS_ADC_RESET Pin=R32-1
+Removed Pin From Net: NetName=HS_ADC_SCLK Pin=R33-1
+Removed Pin From Net: NetName=HS_ADC_SDATA Pin=R34-1
+Removed Pin From Net: NetName=HS_ADC_SEN Pin=R35-1
+Removed Pin From Net: NetName=PLL_NRES Pin=R37-1
+Removed Member From Class: ClassName=HSADCircuit Member=R6
+Removed Member From Class: ClassName=HSDACircuit Member=R16
+Removed Member From Class: ClassName=SerialTerminations Member=R18
+Removed Member From Class: ClassName=SerialTerminations Member=R21
+Removed Member From Class: ClassName=SerialTerminations Member=R24
+Removed Member From Class: ClassName=SerialTerminations Member=R32
+Removed Member From Class: ClassName=SerialTerminations Member=R34
+Removed Member From Class: ClassName=SerialTerminations Member=R36
+Added Component: Designator=C74(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C75(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC7(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/txb0106pwr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/txb0106.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXB0106PWR?qs=nRD1PKnFC2EFAtrwfAB%2F4Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=+1V8_ADDA Pin=C74-2
+Added Pin To Net: NetName=+3V3 Pin=C75-1
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=HS_ADC_OVR Pin=IC7-1
+Added Pin To Net: NetName=+1V8_ADDA Pin=IC7-2
+Added Pin To Net: NetName=HS_ADC_RESET Pin=IC7-3
+Added Pin To Net: NetName=HS_ADC_SCLK Pin=IC7-4
+Added Pin To Net: NetName=HS_ADC_SDATA Pin=IC7-5
+Added Pin To Net: NetName=HS_ADC_SEN Pin=IC7-6
+Added Pin To Net: NetName=GND Pin=IC7-7
+Added Pin To Net: NetName=GND Pin=IC7-9
+Added Pin To Net: NetName=GND Pin=IC7-10
+Added Pin To Net: NetName=+3V3 Pin=IC7-15
+Added Pin To Net: NetName=+1V8_ADDA Pin=R31-1
+Added Pin To Net: NetName=HS_ADC_OVR_3V3 Pin=IC7-16
+Added Net: Name=HS_ADC_OVR_3V3
+Added Pin To Net: NetName=HS_ADC_RESET_3V3 Pin=IC7-14
+Added Net: Name=HS_ADC_RESET_3V3
+Added Pin To Net: NetName=HS_ADC_SCLK_3V3 Pin=IC7-13
+Added Net: Name=HS_ADC_SCLK_3V3
+Added Pin To Net: NetName=HS_ADC_SDATA_3V3 Pin=IC7-12
+Added Net: Name=HS_ADC_SDATA_3V3
+Added Pin To Net: NetName=HS_ADC_SEN_3V3 Pin=IC7-11
+Added Net: Name=HS_ADC_SEN_3V3
+Added Pin To Net: NetName=SHIFTER_OE Pin=IC7-8
+Added Pin To Net: NetName=SHIFTER_OE Pin=R31-2
+Added Net: Name=SHIFTER_OE
+Added Pin To Net: NetName=SPI_CS_DAC_R Pin=R29-2
+Added Net: Name=SPI_CS_DAC_R
+Added Pin To Net: NetName=SPI_NRES_DAC_R Pin=R30-2
+Added Net: Name=SPI_NRES_DAC_R
+Added Pin To Net: NetName=SPI_SCK_R Pin=R28-2
+Added Net: Name=SPI_SCK_R
+Added Pin To Net: NetName=SPI_SDI_R Pin=R27-2
+Added Net: Name=SPI_SDI_R
+Added Pin To Net: NetName=SPI_SDO_R Pin=R26-2
+Added Net: Name=SPI_SDO_R
+Added Member To Class: ClassName=SerialTerminations Member=Component C74 100n
+Added Member To Class: ClassName=SerialTerminations Member=Component C75 100n
+Added Member To Class: ClassName=SerialTerminations Member=Component IC7 TXB0106PWR
+Added Member To Class: ClassName=ClockGen Member=Component R1 10k
+Added Member To Class: ClassName=ClockGen Member=Component R3 10k
+Added Member To Class: ClassName=ClockGen Member=Component R5 10k
+Added Member To Class: ClassName=ClockGen Member=Component R6 10k
+Added Member To Class: ClassName=ClockGen Member=Component R7 10k
+Added Member To Class: ClassName=ClockGen Member=Component R8 DNP
+Added Member To Class: ClassName=HSADCircuit Member=Component R9 10k
+Added Member To Class: ClassName=HSADCircuit Member=Component R10 5R
+Added Member To Class: ClassName=HSADCircuit Member=Component R11 DNP
+Added Member To Class: ClassName=HSADCircuit Member=Component R12 DNP
+Added Member To Class: ClassName=HSADCircuit Member=Component R13 49R9
+Added Member To Class: ClassName=HSADCircuit Member=Component R14 49R9
+Added Member To Class: ClassName=HSADCircuit Member=Component R15 49R9
+Added Member To Class: ClassName=HSADCircuit Member=Component R17 100R
+Added Member To Class: ClassName=HSDACircuit Member=Component R19 100R
+Added Member To Class: ClassName=HSDACircuit Member=Component R23 10k
+Added Member To Class: ClassName=HSDACircuit Member=Component R25 510
+Added Member To Class: ClassName=SerialTerminations Member=Component R27 22R
+Added Member To Class: ClassName=SerialTerminations Member=Component R30 22R

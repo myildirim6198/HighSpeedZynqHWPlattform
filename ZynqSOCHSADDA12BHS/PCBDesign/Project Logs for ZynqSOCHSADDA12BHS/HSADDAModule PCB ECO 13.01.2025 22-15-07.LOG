@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetL1_1 Pin=L1-1
+Removed Pin From Net: NetName=NetL1_3 Pin=L1-3
+Removed Pin From Net: NetName=NetL1_4 Pin=L1-4
+Removed Pin From Net: NetName=NetL1_5 Pin=L1-5
+Removed Pin From Net: NetName=NetC55_1 Pin=L2-1
+Removed Pin From Net: NetName=GND Pin=L2-3
+Removed Pin From Net: NetName=NetL1_3 Pin=L2-4
+Removed Pin From Net: NetName=NetL1_1 Pin=L2-5
+Removed Pin From Net: NetName=NetL1_5 Pin=R19-1
+Removed Pin From Net: NetName=NetL1_5 Pin=R22-1
+Removed Pin From Net: NetName=NetL1_1 Pin=R23-1
+Removed Pin From Net: NetName=NetL1_4 Pin=R24-2
+Removed Pin From Net: NetName=NetL1_3 Pin=R25-2
+Removed Pin From Net: NetName=NetL1_4 Pin=R27-1
+Added Component: Designator=L1(FP-MABA-007159-000000-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turns Ratio"; Value = "1:1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.81mm"; VariantName = "[No Variations]"
+Added Component: Designator=L2(FP-MABA-007159-000000-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turns Ratio"; Value = "1:1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.81mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Pin To Net: NetName=NetL1_5 Pin=L1-5
+Added Pin To Net: NetName=NetL1_5 Pin=L2-1
+Added Pin To Net: NetName=NetL1_4 Pin=L2-3
+Added Pin To Net: NetName=GND Pin=L2-4
+Added Pin To Net: NetName=NetC55_1 Pin=L2-5
+Added Pin To Net: NetName=NetL1_1 Pin=R19-1
+Added Pin To Net: NetName=NetL1_1 Pin=R22-1
+Added Pin To Net: NetName=NetL1_5 Pin=R23-1
+Added Pin To Net: NetName=NetL1_3 Pin=R24-2
+Added Pin To Net: NetName=NetL1_4 Pin=R25-2
+Added Pin To Net: NetName=NetL1_3 Pin=R27-1

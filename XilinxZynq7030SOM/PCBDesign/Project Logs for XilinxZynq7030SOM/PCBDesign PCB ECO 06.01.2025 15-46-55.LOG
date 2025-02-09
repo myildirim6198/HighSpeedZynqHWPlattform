@@ -1,0 +1,99 @@
+Added Pin To Net: NetName=B33_IO_L4_N Pin=IC3-C1
+Added Net: Name=B33_IO_L4_N
+Added Pin To Net: NetName=B33_IO_L4_P Pin=IC3-D1
+Added Net: Name=B33_IO_L4_P
+Added Pin To Net: NetName=B33_IO_L5_N Pin=IC3-E1
+Added Net: Name=B33_IO_L5_N
+Added Pin To Net: NetName=B33_IO_L5_P Pin=IC3-E2
+Added Net: Name=B33_IO_L5_P
+Added Pin To Net: NetName=B33_IO_L6_N Pin=IC3-E3
+Added Net: Name=B33_IO_L6_N
+Added Pin To Net: NetName=B33_IO_L6_P Pin=IC3-F3
+Added Net: Name=B33_IO_L6_P
+Added Pin To Net: NetName=B34_IO_L8_N Pin=IC3-D8
+Added Net: Name=B34_IO_L8_N
+Added Pin To Net: NetName=B34_IO_L8_P Pin=IC3-D9
+Added Net: Name=B34_IO_L8_P
+Added Pin To Net: NetName=B34_IO_L13_N Pin=IC3-C7
+Added Net: Name=B34_IO_L13_N
+Added Pin To Net: NetName=B34_IO_L13_P Pin=IC3-C8
+Added Net: Name=B34_IO_L13_P
+Added Pin To Net: NetName=B34_IO_L14_N Pin=IC3-C6
+Added Net: Name=B34_IO_L14_N
+Added Pin To Net: NetName=B34_IO_L14_P Pin=IC3-D6
+Added Net: Name=B34_IO_L14_P
+Added Pin To Net: NetName=B34_IO_L15_N Pin=IC3-B9
+Added Net: Name=B34_IO_L15_N
+Added Pin To Net: NetName=B34_IO_L15_P Pin=IC3-C9
+Added Net: Name=B34_IO_L15_P
+Added Pin To Net: NetName=B34_IO_L16_N Pin=IC3-A10
+Added Net: Name=B34_IO_L16_N
+Added Pin To Net: NetName=B34_IO_L16_P Pin=IC3-B10
+Added Net: Name=B34_IO_L16_P
+Added Pin To Net: NetName=B34_IO_L17_N Pin=IC3-A8
+Added Net: Name=B34_IO_L17_N
+Added Pin To Net: NetName=B34_IO_L17_P Pin=IC3-A9
+Added Net: Name=B34_IO_L17_P
+Added Pin To Net: NetName=B34_IO_L18_N Pin=IC3-A7
+Added Net: Name=B34_IO_L18_N
+Added Pin To Net: NetName=B34_IO_L18_P Pin=IC3-B7
+Added Net: Name=B34_IO_L18_P
+Added Pin To Net: NetName=B34_IO_L19_N Pin=IC3-C3
+Added Net: Name=B34_IO_L19_N
+Added Pin To Net: NetName=B34_IO_L19_P Pin=IC3-C4
+Added Net: Name=B34_IO_L19_P
+Added Pin To Net: NetName=B34_IO_L20_N Pin=IC3-B4
+Added Net: Name=B34_IO_L20_N
+Added Pin To Net: NetName=B34_IO_L20_P Pin=IC3-B5
+Added Net: Name=B34_IO_L20_P
+Added Pin To Net: NetName=B34_IO_L22_N Pin=IC3-A3
+Added Net: Name=B34_IO_L22_N
+Added Pin To Net: NetName=B34_IO_L22_P Pin=IC3-A4
+Added Net: Name=B34_IO_L22_P
+Added Pin To Net: NetName=B34_IO_L24_N Pin=IC3-A2
+Added Net: Name=B34_IO_L24_N
+Added Pin To Net: NetName=B34_IO_L24_P Pin=IC3-B2
+Added Net: Name=B34_IO_L24_P
+Added Pin To Net: NetName=B35_IO_L13_N Pin=IC3-D14
+Added Net: Name=B35_IO_L13_N
+Added Pin To Net: NetName=B35_IO_L13_P Pin=IC3-D15
+Added Net: Name=B35_IO_L13_P
+Added Pin To Net: NetName=B35_IO_L19_N Pin=IC3-C13
+Added Net: Name=B35_IO_L19_N
+Added Pin To Net: NetName=B35_IO_L19_P Pin=IC3-D13
+Added Net: Name=B35_IO_L19_P
+Added Pin To Net: NetName=B35_IO_L20_N Pin=IC3-B14
+Added Net: Name=B35_IO_L20_N
+Added Pin To Net: NetName=B35_IO_L20_P Pin=IC3-C14
+Added Net: Name=B35_IO_L20_P
+Added Pin To Net: NetName=B35_IO_L23_N Pin=IC3-B11
+Added Net: Name=B35_IO_L23_N
+Added Pin To Net: NetName=B35_IO_L23_P Pin=IC3-C11
+Added Net: Name=B35_IO_L23_P
+Added Pin To Net: NetName=B35_IO_L24_N Pin=IC3-A12
+Added Net: Name=B35_IO_L24_N
+Added Pin To Net: NetName=B35_IO_L24_P Pin=IC3-A13
+Added Net: Name=B35_IO_L24_P
+Added Differential Pair: Name=B33_IO_L4
+Added Differential Pair: Name=B33_IO_L5
+Added Differential Pair: Name=B33_IO_L6
+Added Differential Pair: Name=B34_IO_L8
+Added Differential Pair: Name=B34_IO_L13
+Added Differential Pair: Name=B34_IO_L14
+Added Differential Pair: Name=B34_IO_L15
+Added Differential Pair: Name=B34_IO_L16
+Added Differential Pair: Name=B34_IO_L17
+Added Differential Pair: Name=B34_IO_L18
+Added Differential Pair: Name=B34_IO_L19
+Added Differential Pair: Name=B34_IO_L20
+Added Differential Pair: Name=B34_IO_L22
+Added Differential Pair: Name=B34_IO_L24
+Added Differential Pair: Name=B35_IO_L13
+Added Differential Pair: Name=B35_IO_L19
+Added Differential Pair: Name=B35_IO_L20
+Added Differential Pair: Name=B35_IO_L23
+Added Differential Pair: Name=B35_IO_L24
+Added Member To Class: ClassName=SOCConfiguration Member=Component D2 GREEN
+Added Member To Class: ClassName=SOCConfiguration Member=Component D3 SP3420-04UTG
+Added Member To Class: ClassName=MezzanineConnections Member=Component J3 71436-2164
+Added Member To Class: ClassName=MezzanineConnections Member=Component J5 71436-2164

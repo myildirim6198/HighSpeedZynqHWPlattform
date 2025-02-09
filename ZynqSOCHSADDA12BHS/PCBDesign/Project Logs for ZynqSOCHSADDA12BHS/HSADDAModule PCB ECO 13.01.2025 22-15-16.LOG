@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=FP-MABA-007159-000000-MFG New Footprint=FP-MABA-007159-000000-MFG
+Change Component Footprint: Designator=L2 Old Footprint=FP-MABA-007159-000000-MFG New Footprint=FP-MABA-007159-000000-MFG
+Added Member To Class: ClassName=HSADCircuit Member=Component L1 MABA-007159-000000
+Added Member To Class: ClassName=HSADCircuit Member=Component L2 MABA-007159-000000

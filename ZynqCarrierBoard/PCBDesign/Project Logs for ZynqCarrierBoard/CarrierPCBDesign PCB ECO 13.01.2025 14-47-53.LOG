@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=B12_LED Pin=R26-2
+Removed Member From Class: ClassName=CarrierPeripherals Member=R26
+Added Member To Class: ClassName=CarrierPeripherals Member=Component J8 HR911130A

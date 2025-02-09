@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=HS_ADC_OVR Pin=IC7-1
+Removed Pin From Net: NetName=HS_ADC_RESET Pin=IC7-3
+Removed Pin From Net: NetName=HS_ADC_SCLK Pin=IC7-4
+Removed Pin From Net: NetName=HS_ADC_SDATA Pin=IC7-5
+Removed Pin From Net: NetName=HS_ADC_SEN Pin=IC7-6
+Removed Pin From Net: NetName=GND Pin=IC7-7
+Removed Pin From Net: NetName=GND Pin=IC7-10
+Added Pin To Net: NetName=GND Pin=IC7-1
+Added Pin To Net: NetName=HS_ADC_OVR Pin=IC7-3
+Added Pin To Net: NetName=HS_ADC_RESET Pin=IC7-4
+Added Pin To Net: NetName=HS_ADC_SCLK Pin=IC7-5
+Added Pin To Net: NetName=HS_ADC_SDATA Pin=IC7-6
+Added Pin To Net: NetName=HS_ADC_SEN Pin=IC7-7
+Added Pin To Net: NetName=GND Pin=IC7-16
+Change Net Name : Old Net Name=HS_ADC_RESET_3V3 New Net Name=HS_ADC_OVR_3V3
+Change Net Name : Old Net Name=HS_ADC_SCLK_3V3 New Net Name=HS_ADC_RESET_3V3
+Change Net Name : Old Net Name=HS_ADC_SDATA_3V3 New Net Name=HS_ADC_SCLK_3V3
+Change Net Name : Old Net Name=HS_ADC_SEN_3V3 New Net Name=HS_ADC_SDATA_3V3
+Added Pin To Net: NetName=HS_ADC_SEN_3V3 Pin=IC7-10
+Added Net: Name=HS_ADC_SEN_3V3
+Added Member To Class: ClassName=SerialTerminations Member=Component R31 10k

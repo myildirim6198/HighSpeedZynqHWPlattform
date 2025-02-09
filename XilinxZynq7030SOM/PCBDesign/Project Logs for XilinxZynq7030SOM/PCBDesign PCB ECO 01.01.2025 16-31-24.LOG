@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=J3-36
+Added Pin To Net: NetName=MGT_TX_0_P Pin=J3-38
+Added Pin To Net: NetName=MGT_TX_0_N Pin=J3-40
+Added Pin To Net: NetName=GND Pin=J3-42
+Added Pin To Net: NetName=MGT_TX_1_P Pin=J3-44
+Added Pin To Net: NetName=MGT_TX_1_N Pin=J3-46
+Added Pin To Net: NetName=GND Pin=J3-48
+Added Pin To Net: NetName=MGT_TX_2_P Pin=J3-50
+Added Pin To Net: NetName=MGT_TX_2_N Pin=J3-52
+Added Pin To Net: NetName=GND Pin=J3-54
+Added Pin To Net: NetName=MGT_TX_3_P Pin=J3-56
+Added Pin To Net: NetName=MGT_TX_3_N Pin=J3-58

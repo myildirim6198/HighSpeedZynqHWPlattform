@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BOOTMODE_0 Pin=SW1-1
+Removed Pin From Net: NetName=BOOTMODE_1 Pin=SW1-2
+Added Pin To Net: NetName=BOOTMODE_1 Pin=SW1-1
+Added Pin To Net: NetName=BOOTMODE_0 Pin=SW1-2

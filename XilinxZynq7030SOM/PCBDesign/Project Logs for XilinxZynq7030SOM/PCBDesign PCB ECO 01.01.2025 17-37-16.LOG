@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MGT_REFCLK_0_P Pin=J3-25
+Removed Pin From Net: NetName=MGT_REFCLK_0_N Pin=J3-27
+Removed Pin From Net: NetName=MGT_REFCLK_1_P Pin=J3-31
+Removed Pin From Net: NetName=MGT_REFCLK_1_N Pin=J3-33
+Added Pin To Net: NetName=MGT_REFCLK_1_P Pin=J3-25
+Added Pin To Net: NetName=MGT_REFCLK_1_N Pin=J3-27
+Added Pin To Net: NetName=MGT_REFCLK_0_P Pin=J3-31
+Added Pin To Net: NetName=MGT_REFCLK_0_N Pin=J3-33

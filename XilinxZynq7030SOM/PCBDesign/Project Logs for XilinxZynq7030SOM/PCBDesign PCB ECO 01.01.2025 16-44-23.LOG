@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=J3-35
+Added Pin To Net: NetName=GND Pin=J3-41
+Added Pin To Net: NetName=GND Pin=J3-47
+Added Pin To Net: NetName=GND Pin=J3-53
+Added Member To Class: ClassName=MezzanineConnections Member=Component J3 71436-2164

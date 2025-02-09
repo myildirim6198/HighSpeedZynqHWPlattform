@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C130-1
+Removed Pin From Net: NetName=+3V3 Pin=C130-2
+Removed Pin From Net: NetName=GND Pin=C131-1
+Removed Pin From Net: NetName=+3V3 Pin=C131-2
+Removed Pin From Net: NetName=GND Pin=C132-1
+Removed Pin From Net: NetName=+3V3 Pin=C132-2
+Removed Pin From Net: NetName=GND Pin=C133-1
+Removed Pin From Net: NetName=GND Pin=C134-1
+Removed Pin From Net: NetName=GND Pin=C135-1
+Removed Pin From Net: NetName=GND Pin=C136-1
+Removed Pin From Net: NetName=GND Pin=C137-1
+Removed Pin From Net: NetName=GND Pin=C138-1
+Removed Pin From Net: NetName=GND Pin=C139-1
+Removed Pin From Net: NetName=+3V3 Pin=C139-2
+Removed Pin From Net: NetName=GND Pin=C140-1
+Removed Pin From Net: NetName=+3V3 Pin=C140-2
+Removed Pin From Net: NetName=GND Pin=C141-1
+Removed Pin From Net: NetName=+3V3 Pin=C141-2
+Removed Pin From Net: NetName=GND Pin=C142-1
+Removed Pin From Net: NetName=+3V3 Pin=C142-2
+Removed Pin From Net: NetName=GND Pin=C143-1
+Removed Pin From Net: NetName=+3V3 Pin=C143-2
+Removed Pin From Net: NetName=GND Pin=C144-1
+Removed Pin From Net: NetName=+3V3 Pin=C144-2
+Removed Pin From Net: NetName=GND Pin=C145-1
+Removed Pin From Net: NetName=GND Pin=C148-1
+Removed Pin From Net: NetName=GND Pin=C149-1
+Removed Pin From Net: NetName=GND Pin=IC8-1
+Removed Pin From Net: NetName=+3V3 Pin=IC8-14
+Removed Pin From Net: NetName=GND Pin=IC8-19
+Removed Pin From Net: NetName=+3V3 Pin=IC8-20
+Removed Pin From Net: NetName=+3V3 Pin=IC8-24
+Removed Pin From Net: NetName=GND Pin=IC8-26
+Removed Pin From Net: NetName=+3V3 Pin=IC8-28
+Removed Pin From Net: NetName=GND Pin=IC8-29
+Removed Pin From Net: NetName=GND Pin=IC8-36
+Removed Pin From Net: NetName=+3V3 Pin=IC8-38
+Removed Pin From Net: NetName=+3V3 Pin=IC8-49
+Removed Pin From Net: NetName=+3V3 Pin=IC8-59
+Removed Pin From Net: NetName=+3V3 Pin=IC8-68
+Removed Pin From Net: NetName=GND Pin=IC8-77
+Removed Pin From Net: NetName=+3V3 Pin=R117-1
+Removed Pin From Net: NetName=+3V3 Pin=R118-1
+Removed Pin From Net: NetName=GND Pin=R119-2
+Removed Pin From Net: NetName=GND Pin=R121-2
+Removed Pin From Net: NetName=GND Pin=X5-2
+Removed Pin From Net: NetName=GND Pin=X5-4
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C21 NewDesignator=C23
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C23 NewDesignator=C22

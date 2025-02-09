@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=B13_IO18N Pin=IC7-10
+Added Pin To Net: NetName=B13_IO18P Pin=IC7-11
+Added Pin To Net: NetName=B13_IO15P Pin=IC7-12
+Added Pin To Net: NetName=B13_IO17N Pin=IC7-13
+Added Pin To Net: NetName=B13_IO15N Pin=IC7-14
+Added Pin To Net: NetName=B12_IO10P Pin=IC8-10
+Added Pin To Net: NetName=B12_IO10N Pin=IC8-11
+Added Pin To Net: NetName=B12_IO5N Pin=IC8-12
+Added Pin To Net: NetName=B12_IO16N Pin=IC8-13
+Added Pin To Net: NetName=B12_IO17N Pin=IC8-14

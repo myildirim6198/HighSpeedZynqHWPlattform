@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=DDR_D8 Pin=IC6-E3
+Removed Pin From Net: NetName=DDR_D11 Pin=IC6-F2
+Removed Pin From Net: NetName=DDR_D14 Pin=IC6-F7
+Removed Pin From Net: NetName=DDR_D12 Pin=IC6-F8
+Removed Pin From Net: NetName=DDR_D9 Pin=IC6-G2
+Removed Pin From Net: NetName=DDR_D10 Pin=IC6-H3
+Removed Pin From Net: NetName=DDR_D13 Pin=IC6-H7
+Removed Pin From Net: NetName=DDR_D15 Pin=IC6-H8
+Added Pin To Net: NetName=DDR_D14 Pin=IC6-E3
+Added Pin To Net: NetName=DDR_D10 Pin=IC6-F2
+Added Pin To Net: NetName=DDR_D8 Pin=IC6-F7
+Added Pin To Net: NetName=DDR_D15 Pin=IC6-F8
+Added Pin To Net: NetName=DDR_D13 Pin=IC6-G2
+Added Pin To Net: NetName=DDR_D12 Pin=IC6-H3
+Added Pin To Net: NetName=DDR_D9 Pin=IC6-H7
+Added Pin To Net: NetName=DDR_D11 Pin=IC6-H8
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
