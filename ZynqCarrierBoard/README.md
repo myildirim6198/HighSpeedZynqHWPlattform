@@ -16,6 +16,16 @@ PCB-Project files for the Carrier Board.
 
 - Supply Voltage: +5V0 to +5V5 (recommended: +5V0)
 
+# Manufacturing Information
+
+- Length = 100mm, Width = 100mm, Thickness = 1.6 mm
+- Layers = 4
+- Min. Via Hole diameter = 0.3 mm
+- Via-Type: Plugged
+- Impedance Control: JLC04161H-3313
+- Surface Finish: ENIG
+- Material Type: FR-4 TG135-140
+
 # Progress
 
 - Schematic design: complete
