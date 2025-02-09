@@ -12,6 +12,10 @@ PCB-Project files for the Carrier Board.
 - Xilinx 14-Pin Jtag Connector
 - Molex 71439-0164 Mezzanine PCB-to-PCB connector compatible with 71436-2164 Connector
 
+# Absolute Maximum Ratings
+
+- Supply Voltage: +5V0 to +5V5 (recommended: +5V0)
+
 # Progress
 
 - Schematic design: complete
