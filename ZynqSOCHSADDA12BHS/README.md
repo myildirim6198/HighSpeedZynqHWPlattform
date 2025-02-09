@@ -1,16 +1,13 @@
-# Carrier Board for the Xilinx Zynq Based System-On-Module
+# High-Speed ADC and DAC Peripheral Module for the Xilinx Zynq Based System-On-Module
 
-PCB-Project files for the Carrier Board.
+PCB-Project files for the peripheral High Speed ADC and DAC Aqcuisition board
 
 # Board Features
 
-- Power Jack: Inside Contact Diameter: 2.1 mm ;	Outside Contact Diameter: 	5.5 mm 
-- SPST Switch for Bootmode Selection
-- 100/1000Base-T Magnetics Single-Port RJ45 Connector with Integrated Magnetics and LEDs for gigabit Ethernet
-- USB-Type C connector Interface
-- Buttons for program reset
-- Xilinx 14-Pin Jtag Connector
-- Molex 71439-0164 Mezzanine PCB-to-PCB connector compatible with 71436-2164 Connector
+- Texas Instruments ADS4129 12-Bit 250 MSPS Analog-Digital-Converter
+- Texas Instruments DAC3161 12-Bit 500 MSPS Digital-Analog-Converter (250 MSPS in this configuration)
+- Texas Instruments CDCM6208 2:8 Ultra-low jitter clock generator output frequency max: 800 MHz
+- 50 Ohm matched RF-Input and RF-Output with SMA-Connectors
 
 # Progress
 
@@ -19,5 +16,5 @@ PCB-Project files for the Carrier Board.
 - Manufacturing & assembly: In progress
 - Bring-Up: In progress
 
-![carrierIMG](https://github.com/myildirim6198/HighSpeedZynqHWPlattform/blob/main/ZynqCarrierBoard/Images/OverviewCarrier.png?raw=true)
+![hsADDAperiphIMG](https://github.com/myildirim6198/HighSpeedZynqHWPlattform/blob/main/ZynqSOCHSADDA12BHS/Images/OverviewPeripheralHSADDA.png?raw=true)
 
