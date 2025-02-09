@@ -42,5 +42,5 @@ PCB-Project files for the FGPA-SoC System-On-Module
 - Manufacturing & assembly: In progress
 - Bring-Up: In progress
 
-![hsADDAperiphIMG](https://github.com/myildirim6198/HighSpeedZynqHWPlattform/blob/main/ZynqSOCHSADDA12BHS/Images/OverviewPeripheralHSADDA.png?raw=true)
+![hsADDAperiphIMG](https://github.com/myildirim6198/HighSpeedZynqHWPlattform/blob/main/XilinxZynq7030SOM/Images/PictureSOM.png?raw=true)
 
