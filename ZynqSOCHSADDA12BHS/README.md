@@ -25,6 +25,16 @@ PCB-Project files for the peripheral High Speed ADC and DAC Aqcuisition board
 - Supply Voltage: +5V0 to +5V5 (recommended: +5V0)
 - ADC Peak-to-peak input voltage range: 2 V
 
+# Manufacturing Information
+
+- Length = 95mm, Width = 75mm, Thickness = 1.6 mm
+- Layers = 6
+- Min. Via Hole diameter = 0.3 mm
+- Via-Type: Epoxy-Filled and Capped
+- Impedance Control: JLC06161H-3313
+- Surface Finish: ENIG
+- Material Type: FR-4 TG135-140
+
 # Progress
 
 - Schematic design: complete
