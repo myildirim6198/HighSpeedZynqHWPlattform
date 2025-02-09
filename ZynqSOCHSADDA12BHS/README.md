@@ -33,7 +33,7 @@ PCB-Project files for the peripheral High Speed ADC and DAC Aqcuisition board
 - Via-Type: Epoxy-Filled and Capped
 - Impedance Control: JLC06161H-3313
 - Surface Finish: ENIG
-- Material Type: FR-4 TG135-140
+- Material Type: FR-4 TG155
 
 # Progress
 
