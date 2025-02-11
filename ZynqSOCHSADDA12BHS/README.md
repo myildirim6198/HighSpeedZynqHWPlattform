@@ -1,4 +1,4 @@
-# High-Speed ADC and DAC Peripheral Module for the Xilinx Zynq Based System-On-Module
+# High-Speed ADC and DAC peripheral module for the Xilinx Zynq Based System-On-Module
 
 PCB-Project files for the peripheral High Speed ADC and DAC Aqcuisition board
 
