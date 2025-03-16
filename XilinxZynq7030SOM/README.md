@@ -9,7 +9,7 @@ PCB-Project files for the FGPA-SoC System-On-Module
 - Memory: On Chip: 32 KB L1 Cache, 512 KB L2 Cache, 256 KB Memory, 93 Mb BRAM ; External: 2x 512 MB DDR3L RAM ; External: 1x 16 MB QSPI Flash
 - USB: USB 2.0 Transceiver Speeds up to 480 Mbit/s (HS), USB-C compatible Interface
 - Transceivers: MGT GTX Tranceivers, PCIE Gen2 x4 compatible with speeds up to 12.5 Gbit/s
-- I/Os: 64x +3V3 Compatible HR Bank 12 Single-ended skew Matched IOs; 23x +1V8 Compatible HP Banks Differential skew Matched IOs for high-speed Applications
+- I/Os: 64x +3V3 Compatible HR Banks Single-ended skew Matched IOs; 23x +1V8 Compatible HP Banks Differential skew Matched (LVDS18) IOs for high-speed Applications
 - Molex 71436-2164 Mezzanine PCB-to-PCB connectors compatible with 71439-0164
 
 # Applications:
